@@ -1,4 +1,4 @@
-# Descripción ejercicio
+# Descripción
 
 Contruir una webApp que realice búsquedas sobre la api de spotify.
 
@@ -30,5 +30,19 @@ Cada favorito debe tener un botón/icono para eliminarlo de la lista.
 - Bundler.
 
 
-# Descripción de la solución
+# Como levantar la aplicación
+
+## Levantar API
+1. Clonar repo https://github.com/juancancela/spotify-api
+2. En el root path, ejecutar npm install para instalar las dependencias
+3. Ejecutar node server.js
+
+Notas: La API escucha en el puerto 3090
+
+# Levantar APP
+1. Clonar este repo
+2. Ejecutar yarn install para instalar las dependencias de la app
+2. Ejecutar yarn start para iniciar la aplicación
+
+Notas: La app se levanta en el puerto 3000
 

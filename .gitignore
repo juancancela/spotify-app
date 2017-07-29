@@ -28,3 +28,6 @@ yarn-error.log*
 
 # Misc
 .DS_Store
+
+# lock file
+yarn-lock
