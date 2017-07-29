@@ -1,0 +1,45 @@
+.searchBar {
+  position: fixed;
+  background: blueviolet;
+  top: 10px;
+  height: 40px;
+  width: inherit;
+  border-radius: 10px;
+  box-shadow: 4px 2px 2px #888888;
+  z-index: 1;
+}
+
+.searchBar input {
+   position: fixed;
+   height: 25px;
+   width: 400px;
+   top: 17px;
+   margin-left: 50px;
+   border-radius: 5px !important;
+}
+
+.searchButton {
+    position: absolute;
+    top: 8px !important;
+    left: 460px !important;
+    color: white;
+}
+
+.searchButton:hover{
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
+}
+
+.favoritesButton {
+    position: absolute;
+    top: 8px !important;
+    left: 530px !important;
+    color: white;
+}
+
+.favoritesButton:hover{
+  text-decoration: none;
+  color: white;
+  font-weight: bolder;
+}

@@ -1,0 +1,11 @@
+.listGroupItem {
+    width: 980px;
+}
+
+.listGroupItem:hover {
+    background-color: #eee;
+}
+
+.listGroupItem a {
+  cursor: pointer;
+}

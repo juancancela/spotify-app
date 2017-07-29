@@ -1,0 +1,6 @@
+{
+  "name": "Favorites",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Favorites.js"
+}
